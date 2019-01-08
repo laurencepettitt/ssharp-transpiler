@@ -1,0 +1,6 @@
+main {
+  write(test(read(),
+             read()));
+  write ( fact ( 5 ));
+  0
+}
