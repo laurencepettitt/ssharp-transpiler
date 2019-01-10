@@ -3,6 +3,5 @@
 typedef uint64_t number;
 
 number read(){number x; std::cin >> x;return x;}
-number write(number x){std::cout << x;return x;}
-number test(number u,number v){return ([](){return [](){return (number)5;}(),[](){return (number)5;}();}());}
-int main(){return ([](){return [](){return (number)5;}(),[](){return (number)5;}();}()),0;}
+number write(number x){std::cout << x << std::endl;return x;}
+int main(){return ([&](){return write(([&](){return write((number)3),(number)4;}()));}()),0;}

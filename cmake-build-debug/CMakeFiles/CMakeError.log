@@ -1,24 +1,24 @@
 Detecting C [-std=c11] compiler features failed to compile with the following output:
 Change Dir: /cygdrive/c/Users/I354325/uni/S#/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make.exe" "cmTC_db44d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_db44d.dir/build.make CMakeFiles/cmTC_db44d.dir/build
+Run Build Command:"/usr/bin/make.exe" "cmTC_d78e2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d78e2.dir/build.make CMakeFiles/cmTC_d78e2.dir/build
 make[1]: Entering directory '/cygdrive/c/Users/I354325/uni/S#/cmake-build-debug/CMakeFiles/CMakeTmp'
-make[1]: *** No rule to make target '/cygdrive/c/Users/I354325/uni/S', needed by 'CMakeFiles/cmTC_db44d.dir/feature_tests.c.o'.  Stop.
+make[1]: *** No rule to make target '/cygdrive/c/Users/I354325/uni/S', needed by 'CMakeFiles/cmTC_d78e2.dir/feature_tests.c.o'.  Stop.
 make[1]: Leaving directory '/cygdrive/c/Users/I354325/uni/S#/cmake-build-debug/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_db44d/fast] Error 2
+make: *** [Makefile:121: cmTC_d78e2/fast] Error 2
 
 
 
 Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
 Change Dir: /cygdrive/c/Users/I354325/uni/S#/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make.exe" "cmTC_5bfba/fast"
-/usr/bin/make -f CMakeFiles/cmTC_5bfba.dir/build.make CMakeFiles/cmTC_5bfba.dir/build
+Run Build Command:"/usr/bin/make.exe" "cmTC_65103/fast"
+/usr/bin/make -f CMakeFiles/cmTC_65103.dir/build.make CMakeFiles/cmTC_65103.dir/build
 make[1]: Entering directory '/cygdrive/c/Users/I354325/uni/S#/cmake-build-debug/CMakeFiles/CMakeTmp'
-make[1]: *** No rule to make target '/cygdrive/c/Users/I354325/uni/S', needed by 'CMakeFiles/cmTC_5bfba.dir/feature_tests.cxx.o'.  Stop.
+make[1]: *** No rule to make target '/cygdrive/c/Users/I354325/uni/S', needed by 'CMakeFiles/cmTC_65103.dir/feature_tests.cxx.o'.  Stop.
 make[1]: Leaving directory '/cygdrive/c/Users/I354325/uni/S#/cmake-build-debug/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_5bfba/fast] Error 2
+make: *** [Makefile:121: cmTC_65103/fast] Error 2
 
 
 
